@@ -1,0 +1,134 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.mulhollandstraps.airhero"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="15"
+8-->/home/samson/Documents/github/SamsonYuBaiJian/singapore-india-hackathon-2019/AirHero/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->/home/samson/Documents/github/SamsonYuBaiJian/singapore-india-hackathon-2019/AirHero/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.BLUETOOTH" />
+11-->/home/samson/Documents/github/SamsonYuBaiJian/singapore-india-hackathon-2019/AirHero/app/src/main/AndroidManifest.xml:5:5-68
+11-->/home/samson/Documents/github/SamsonYuBaiJian/singapore-india-hackathon-2019/AirHero/app/src/main/AndroidManifest.xml:5:22-65
+12    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+12-->/home/samson/Documents/github/SamsonYuBaiJian/singapore-india-hackathon-2019/AirHero/app/src/main/AndroidManifest.xml:6:5-74
+12-->/home/samson/Documents/github/SamsonYuBaiJian/singapore-india-hackathon-2019/AirHero/app/src/main/AndroidManifest.xml:6:22-71
+13    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+13-->/home/samson/Documents/github/SamsonYuBaiJian/singapore-india-hackathon-2019/AirHero/app/src/main/AndroidManifest.xml:7:5-79
+13-->/home/samson/Documents/github/SamsonYuBaiJian/singapore-india-hackathon-2019/AirHero/app/src/main/AndroidManifest.xml:7:22-76
+14    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+14-->/home/samson/Documents/github/SamsonYuBaiJian/singapore-india-hackathon-2019/AirHero/app/src/main/AndroidManifest.xml:8:5-81
+14-->/home/samson/Documents/github/SamsonYuBaiJian/singapore-india-hackathon-2019/AirHero/app/src/main/AndroidManifest.xml:8:22-78
+15    <uses-permission android:name="android.permission.INTERNET" />
+15-->/home/samson/Documents/github/SamsonYuBaiJian/singapore-india-hackathon-2019/AirHero/app/src/main/AndroidManifest.xml:9:5-67
+15-->/home/samson/Documents/github/SamsonYuBaiJian/singapore-india-hackathon-2019/AirHero/app/src/main/AndroidManifest.xml:9:22-64
+16    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+16-->/home/samson/Documents/github/SamsonYuBaiJian/singapore-india-hackathon-2019/AirHero/app/src/main/AndroidManifest.xml:10:5-79
+16-->/home/samson/Documents/github/SamsonYuBaiJian/singapore-india-hackathon-2019/AirHero/app/src/main/AndroidManifest.xml:10:22-76
+17
+18    <permission
+18-->/home/samson/Documents/github/SamsonYuBaiJian/singapore-india-hackathon-2019/AirHero/app/src/main/AndroidManifest.xml:12:5-14:37
+19        android:name="android.permission.BLUETOOTH"
+19-->/home/samson/Documents/github/SamsonYuBaiJian/singapore-india-hackathon-2019/AirHero/app/src/main/AndroidManifest.xml:13:9-52
+20        android:label="BLUETOOTH" />
+20-->/home/samson/Documents/github/SamsonYuBaiJian/singapore-india-hackathon-2019/AirHero/app/src/main/AndroidManifest.xml:14:9-34
+21    <permission android:name="android.permission.BLUETOOTH_ADMIN" />
+21-->/home/samson/Documents/github/SamsonYuBaiJian/singapore-india-hackathon-2019/AirHero/app/src/main/AndroidManifest.xml:15:5-69
+21-->/home/samson/Documents/github/SamsonYuBaiJian/singapore-india-hackathon-2019/AirHero/app/src/main/AndroidManifest.xml:15:17-66
+22    <permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+22-->/home/samson/Documents/github/SamsonYuBaiJian/singapore-india-hackathon-2019/AirHero/app/src/main/AndroidManifest.xml:16:5-74
+22-->/home/samson/Documents/github/SamsonYuBaiJian/singapore-india-hackathon-2019/AirHero/app/src/main/AndroidManifest.xml:16:17-71
+23    <permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+23-->/home/samson/Documents/github/SamsonYuBaiJian/singapore-india-hackathon-2019/AirHero/app/src/main/AndroidManifest.xml:17:5-76
+23-->/home/samson/Documents/github/SamsonYuBaiJian/singapore-india-hackathon-2019/AirHero/app/src/main/AndroidManifest.xml:17:17-73
+24
+25    <uses-feature
+25-->/home/samson/Documents/github/SamsonYuBaiJian/singapore-india-hackathon-2019/AirHero/app/src/main/AndroidManifest.xml:19:5-21:35
+26        android:name="android.hardware.camera"
+26-->/home/samson/Documents/github/SamsonYuBaiJian/singapore-india-hackathon-2019/AirHero/app/src/main/AndroidManifest.xml:20:9-47
+27        android:required="true" />
+27-->/home/samson/Documents/github/SamsonYuBaiJian/singapore-india-hackathon-2019/AirHero/app/src/main/AndroidManifest.xml:21:9-32
+28    <uses-feature android:name="android.permission.CAMERA" />
+28-->/home/samson/Documents/github/SamsonYuBaiJian/singapore-india-hackathon-2019/AirHero/app/src/main/AndroidManifest.xml:22:5-62
+28-->/home/samson/Documents/github/SamsonYuBaiJian/singapore-india-hackathon-2019/AirHero/app/src/main/AndroidManifest.xml:22:19-59
+29
+30    <uses-permission android:name="android.hardware.camera" />
+30-->/home/samson/Documents/github/SamsonYuBaiJian/singapore-india-hackathon-2019/AirHero/app/src/main/AndroidManifest.xml:24:5-63
+30-->/home/samson/Documents/github/SamsonYuBaiJian/singapore-india-hackathon-2019/AirHero/app/src/main/AndroidManifest.xml:24:22-60
+31    <uses-permission android:name="android.permission.CAMERA" />
+31-->/home/samson/Documents/github/SamsonYuBaiJian/singapore-india-hackathon-2019/AirHero/app/src/main/AndroidManifest.xml:25:5-65
+31-->/home/samson/Documents/github/SamsonYuBaiJian/singapore-india-hackathon-2019/AirHero/app/src/main/AndroidManifest.xml:25:22-62
+32    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+32-->/home/samson/Documents/github/SamsonYuBaiJian/singapore-india-hackathon-2019/AirHero/app/src/main/AndroidManifest.xml:26:5-81
+32-->/home/samson/Documents/github/SamsonYuBaiJian/singapore-india-hackathon-2019/AirHero/app/src/main/AndroidManifest.xml:26:22-78
+33    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+33-->/home/samson/Documents/github/SamsonYuBaiJian/singapore-india-hackathon-2019/AirHero/app/src/main/AndroidManifest.xml:27:5-80
+33-->/home/samson/Documents/github/SamsonYuBaiJian/singapore-india-hackathon-2019/AirHero/app/src/main/AndroidManifest.xml:27:22-77
+34
+35    <application
+35-->/home/samson/Documents/github/SamsonYuBaiJian/singapore-india-hackathon-2019/AirHero/app/src/main/AndroidManifest.xml:29:5-53:19
+36        android:allowBackup="true"
+36-->/home/samson/Documents/github/SamsonYuBaiJian/singapore-india-hackathon-2019/AirHero/app/src/main/AndroidManifest.xml:31:9-35
+37        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+37-->[com.android.support:support-compat:28.0.0] /home/samson/.gradle/caches/transforms-2/files-2.1/dd1cf78f22bdd94f550130b281f27c97/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+38        android:debuggable="true"
+39        android:icon="@mipmap/ic_launcher"
+39-->/home/samson/Documents/github/SamsonYuBaiJian/singapore-india-hackathon-2019/AirHero/app/src/main/AndroidManifest.xml:32:9-43
+40        android:label="@string/app_name"
+40-->/home/samson/Documents/github/SamsonYuBaiJian/singapore-india-hackathon-2019/AirHero/app/src/main/AndroidManifest.xml:33:9-41
+41        android:roundIcon="@mipmap/ic_launcher_round"
+41-->/home/samson/Documents/github/SamsonYuBaiJian/singapore-india-hackathon-2019/AirHero/app/src/main/AndroidManifest.xml:34:9-54
+42        android:supportsRtl="true"
+42-->/home/samson/Documents/github/SamsonYuBaiJian/singapore-india-hackathon-2019/AirHero/app/src/main/AndroidManifest.xml:35:9-35
+43        android:testOnly="true"
+44        android:theme="@style/AppTheme"
+44-->/home/samson/Documents/github/SamsonYuBaiJian/singapore-india-hackathon-2019/AirHero/app/src/main/AndroidManifest.xml:36:9-40
+45        android:usesCleartextTraffic="true" >
+45-->/home/samson/Documents/github/SamsonYuBaiJian/singapore-india-hackathon-2019/AirHero/app/src/main/AndroidManifest.xml:30:9-44
+46        <activity android:name="com.airhero.Activity_Instruction" />
+46-->/home/samson/Documents/github/SamsonYuBaiJian/singapore-india-hackathon-2019/AirHero/app/src/main/AndroidManifest.xml:37:9-78
+46-->/home/samson/Documents/github/SamsonYuBaiJian/singapore-india-hackathon-2019/AirHero/app/src/main/AndroidManifest.xml:37:19-66
+47        <activity android:name="com.airhero.Activity_Model" />
+47-->/home/samson/Documents/github/SamsonYuBaiJian/singapore-india-hackathon-2019/AirHero/app/src/main/AndroidManifest.xml:38:9-63
+47-->/home/samson/Documents/github/SamsonYuBaiJian/singapore-india-hackathon-2019/AirHero/app/src/main/AndroidManifest.xml:38:19-60
+48        <activity android:name="com.airhero.Activity_User_Upload" />
+48-->/home/samson/Documents/github/SamsonYuBaiJian/singapore-india-hackathon-2019/AirHero/app/src/main/AndroidManifest.xml:39:9-69
+48-->/home/samson/Documents/github/SamsonYuBaiJian/singapore-india-hackathon-2019/AirHero/app/src/main/AndroidManifest.xml:39:19-66
+49        <activity android:name="com.airhero.Activity_Collect_Handheld" />
+49-->/home/samson/Documents/github/SamsonYuBaiJian/singapore-india-hackathon-2019/AirHero/app/src/main/AndroidManifest.xml:40:9-74
+49-->/home/samson/Documents/github/SamsonYuBaiJian/singapore-india-hackathon-2019/AirHero/app/src/main/AndroidManifest.xml:40:19-71
+50        <activity android:name="com.airhero.Activity_Rover" />
+50-->/home/samson/Documents/github/SamsonYuBaiJian/singapore-india-hackathon-2019/AirHero/app/src/main/AndroidManifest.xml:41:9-63
+50-->/home/samson/Documents/github/SamsonYuBaiJian/singapore-india-hackathon-2019/AirHero/app/src/main/AndroidManifest.xml:41:19-60
+51        <activity android:name="com.airhero.Activity_Handheld" />
+51-->/home/samson/Documents/github/SamsonYuBaiJian/singapore-india-hackathon-2019/AirHero/app/src/main/AndroidManifest.xml:42:9-66
+51-->/home/samson/Documents/github/SamsonYuBaiJian/singapore-india-hackathon-2019/AirHero/app/src/main/AndroidManifest.xml:42:19-63
+52        <activity android:name="com.airhero.Activity_Choose" />
+52-->/home/samson/Documents/github/SamsonYuBaiJian/singapore-india-hackathon-2019/AirHero/app/src/main/AndroidManifest.xml:43:9-64
+52-->/home/samson/Documents/github/SamsonYuBaiJian/singapore-india-hackathon-2019/AirHero/app/src/main/AndroidManifest.xml:43:19-61
+53        <activity android:name="com.airhero.Activity_Collect_Rover" />
+53-->/home/samson/Documents/github/SamsonYuBaiJian/singapore-india-hackathon-2019/AirHero/app/src/main/AndroidManifest.xml:44:9-71
+53-->/home/samson/Documents/github/SamsonYuBaiJian/singapore-india-hackathon-2019/AirHero/app/src/main/AndroidManifest.xml:44:19-68
+54        <activity android:name="com.airhero.Activity_Report" />
+54-->/home/samson/Documents/github/SamsonYuBaiJian/singapore-india-hackathon-2019/AirHero/app/src/main/AndroidManifest.xml:45:9-64
+54-->/home/samson/Documents/github/SamsonYuBaiJian/singapore-india-hackathon-2019/AirHero/app/src/main/AndroidManifest.xml:45:19-61
+55        <activity android:name="com.airhero.MainActivity" >
+55-->/home/samson/Documents/github/SamsonYuBaiJian/singapore-india-hackathon-2019/AirHero/app/src/main/AndroidManifest.xml:46:9-52:20
+55-->/home/samson/Documents/github/SamsonYuBaiJian/singapore-india-hackathon-2019/AirHero/app/src/main/AndroidManifest.xml:46:19-58
+56            <intent-filter>
+56-->/home/samson/Documents/github/SamsonYuBaiJian/singapore-india-hackathon-2019/AirHero/app/src/main/AndroidManifest.xml:47:13-51:29
+57                <action android:name="android.intent.action.MAIN" />
+57-->/home/samson/Documents/github/SamsonYuBaiJian/singapore-india-hackathon-2019/AirHero/app/src/main/AndroidManifest.xml:48:17-69
+57-->/home/samson/Documents/github/SamsonYuBaiJian/singapore-india-hackathon-2019/AirHero/app/src/main/AndroidManifest.xml:48:25-66
+58
+59                <category android:name="android.intent.category.LAUNCHER" />
+59-->/home/samson/Documents/github/SamsonYuBaiJian/singapore-india-hackathon-2019/AirHero/app/src/main/AndroidManifest.xml:50:17-77
+59-->/home/samson/Documents/github/SamsonYuBaiJian/singapore-india-hackathon-2019/AirHero/app/src/main/AndroidManifest.xml:50:27-74
+60            </intent-filter>
+61        </activity>
+62    </application>
+63
+64</manifest>

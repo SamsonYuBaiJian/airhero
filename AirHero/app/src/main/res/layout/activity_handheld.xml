@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimaryDark"
+    tools:context="com.airhero.Activity_Choose">
+
+    <TextView
+        android:id="@+id/modelVOCText"
+        android:layout_width="231dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="177dp"
+        android:layout_marginRight="177dp"
+        android:layout_marginBottom="6dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Model:VOC_1"
+        android:textSize="24sp" />
+
+    <ImageView
+        android:id="@+id/handheldDevice"
+        android:layout_width="184dp"
+        android:layout_height="262dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="105dp"
+        android:layout_marginRight="105dp"
+        android:layout_marginBottom="214dp"
+        app:srcCompat="@drawable/jj" />
+
+    <TextView
+        android:id="@+id/vocHandheldSensitivity"
+        android:layout_width="204dp"
+        android:layout_height="49dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="44dp"
+        android:layout_marginRight="44dp"
+        android:layout_marginBottom="200dp"
+        android:text="VOC Senstivity "
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/continueHandheldButton"
+        android:layout_width="116dp"
+        android:layout_height="34dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="18dp"
+        android:layout_marginRight="18dp"
+        android:layout_marginBottom="13dp"
+        android:background="#FF1DB8EB"
+        android:text="Continue"
+        android:textColor="#FF000000"
+        android:textSize="18sp" />
+
+    <SeekBar
+        android:id="@+id/handheldSensitivityBar"
+        android:layout_width="379dp"
+        android:layout_height="37dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="-1dp"
+        android:layout_marginRight="-1dp"
+        android:layout_marginBottom="174dp"
+        android:progressTint="@color/colorPrimary"
+        android:thumb="@drawable/adada" />
+
+
+</RelativeLayout>

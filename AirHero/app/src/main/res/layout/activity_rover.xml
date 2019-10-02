@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimaryDark"
+    tools:context="com.airhero.Activity_Choose">
+
+    <TextView
+        android:id="@+id/modelRoverText"
+        android:layout_width="198dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="203dp"
+        android:layout_marginRight="203dp"
+        android:layout_marginBottom="13dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Model:Rover_1"
+        android:textSize="18sp" />
+
+    <ImageView
+        android:id="@+id/rover"
+        android:layout_width="270dp"
+        android:layout_height="237dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="60dp"
+        android:layout_marginRight="60dp"
+        android:layout_marginBottom="261dp"
+        app:srcCompat="@drawable/car" />
+
+    <SeekBar
+        android:id="@+id/roverSensitivityBar"
+        android:layout_width="278dp"
+        android:layout_height="49dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="47dp"
+        android:layout_marginRight="47dp"
+        android:layout_marginBottom="181dp"
+        android:progressTint="@color/colorPrimary"
+        android:thumb="@drawable/adada" />
+
+    <TextView
+        android:id="@+id/vocRoverSensitivity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="140dp"
+        android:layout_marginRight="140dp"
+        android:layout_marginBottom="227dp"
+        android:text="VOC sensitivity"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/speedRover"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="142dp"
+        android:layout_marginRight="142dp"
+        android:layout_marginBottom="162dp"
+        android:text="Speed of Rover"
+        android:textSize="18sp" />
+
+    <SeekBar
+        android:id="@+id/roverSpeedBar"
+        android:layout_width="283dp"
+        android:layout_height="52dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="44dp"
+        android:layout_marginRight="44dp"
+        android:layout_marginBottom="105dp"
+        android:progressTint="@color/colorPrimary"
+        android:thumb="@drawable/adada" />
+
+    <Button
+        android:id="@+id/continueRoverButton"
+        android:layout_width="100dp"
+        android:layout_height="25dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="21dp"
+        android:layout_marginRight="21dp"
+        android:layout_marginBottom="18dp"
+        android:background="#FF1DB8EB"
+        android:text="Results"
+        android:textColor="#FF000000" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="180dp"
+        android:layout_height="47dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="0dp"
+        android:layout_marginRight="0dp"
+        android:layout_marginBottom="532dp"
+        app:srcCompat="@drawable/veeve" />
+
+    <Button
+        android:id="@+id/info"
+        android:layout_width="55dp"
+        android:layout_height="54dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="274dp"
+        android:layout_marginRight="274dp"
+        android:layout_marginBottom="525dp"
+        style="?android:attr/borderlessButtonStyle"
+        android:background="@drawable/jmm" />
+
+    <!--    <Button-->
+<!--        android:id="@+id/button4"-->
+<!--        style="?android:attr/borderlessButtonStyle"-->
+<!--        android:layout_width="63dp"-->
+<!--        android:layout_height="52dp"-->
+<!--        android:layout_alignParentEnd="true"-->
+<!--        android:layout_alignParentRight="true"-->
+<!--        android:layout_alignParentBottom="true"-->
+<!--        android:layout_marginEnd="282dp"-->
+<!--        android:layout_marginRight="282dp"-->
+<!--        android:layout_marginBottom="25dp"-->
+<!--        android:background="@drawable/cscsdwdw" />-->
+
+
+</RelativeLayout>

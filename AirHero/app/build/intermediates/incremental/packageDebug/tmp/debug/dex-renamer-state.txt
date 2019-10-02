@@ -1,0 +1,4 @@
+#Wed Oct 02 15:47:40 SGT 2019
+base.0=/home/samson/Documents/github/SamsonYuBaiJian/singapore-india-hackathon-2019/AirHero/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.airhero.Activity_User_Upload">
+
+    <ImageView
+        android:id="@+id/modelResults"
+        android:layout_width="match_parent"
+        android:layout_height="387dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="319dp"
+        app:srcCompat="@drawable/cscs" />
+
+    <EditText
+        android:id="@+id/mildRisk"
+        android:layout_width="316dp"
+        android:layout_height="56dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="32dp"
+        android:layout_marginRight="32dp"
+        android:layout_marginBottom="236dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Mild Risk range: 0.5 ppm -1pm (Yellow)"
+        android:textColor="#FFFFEF14" />
+
+    <EditText
+        android:id="@+id/risky"
+        android:layout_width="316dp"
+        android:layout_height="56dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="39dp"
+        android:layout_marginRight="39dp"
+        android:layout_marginBottom="174dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Risky range: 1 ppm -2pm (Red)"
+        android:textColor="#FFE13131" />
+
+    <EditText
+        android:id="@+id/deadly"
+        android:layout_width="334dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="119dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Deadly range: 2 ppm and Above (Black)"
+        android:textColor="@color/colorPrimary" />
+
+    <EditText
+        android:id="@+id/normal"
+        android:layout_width="316dp"
+        android:layout_height="56dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="35dp"
+        android:layout_marginRight="35dp"
+        android:layout_marginBottom="305dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Normal range: 0 ppm -0.5pm (Green)"
+        android:textColor="#FF1EE504" />
+
+    <Button
+        android:id="@+id/recommendation"
+        android:layout_width="366dp"
+        android:layout_height="138dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="0dp"
+        android:layout_marginRight="0dp"
+        android:layout_marginBottom="-31dp"
+        android:background="@drawable/scaa"
+        android:text="Recommendation"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="18sp" />
+
+</RelativeLayout>

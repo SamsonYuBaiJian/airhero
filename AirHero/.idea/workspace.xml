@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <device id="Nexus 6P" />
+      </config>
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="except" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aa0b8091-dd84-4975-a8e8-4a013e7a1e66" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AirHero.iml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Samsung_Galaxy_S9_API_26" />
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/airhero/Activity_User_Upload.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="87">
+              <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile_vertical" />
+        <option value="Class" />
+        <option value="layoutResourceFile" />
+        <option value="resourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>listview</find>
+      <find>listpaired</find>
+      <find>startdiscover</find>
+      <find>mDevicesListView</find>
+      <find>showpop</find>
+      <find>if</find>
+      <find>onactivityresult</find>
+      <find>intent</find>
+      <find>MESSAGE_READ</find>
+      <find>start</find>
+      <find>startactiv</find>
+      <find>handler</find>
+      <find>openactivity</find>
+      <find>message_read</find>
+      <find>arrayadap</find>
+      <find>RESULT_CANCELED</find>
+      <find>recommender</find>
+      <find>mreadbuffer</find>
+      <find>mediastore.extra</find>
+      <find>vocreadings</find>
+      <find>image</find>
+      <find>imageuri</find>
+      <find>submit</find>
+      <find>threshold</find>
+      <find>reportVerticalScroll</find>
+      <find>p</find>
+      <find>progressbar</find>
+      <find>readbuffer</find>
+      <find>vocreading</find>
+      <find>readbuffer2</find>
+    </findStrings>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="D:\d.jks" />
+    <option name="KEY_ALIAS" value="key0" />
+    <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/java/com/mulhollandstraps/airhero/Activity_8.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/mulhollandstraps/airhero/DeviceItem.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/mulhollandstraps/airhero/DeviceListFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/mulhollandstraps/airhero/DeviceListAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/mulhollandstraps/airhero/ConnectedThread.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/mulhollandstraps/airhero/Activity_BT.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/mulhollandstraps/airhero/Activity_4.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/mulhollandstraps/airhero/Activity_3.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/bt_popup.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/device_list.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/bluetooth_device_list.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_5.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/mulhollandstraps/airhero/Activity_5.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/mulhollandstraps/airhero/Activity_7.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_7.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_model.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/mulhollandstraps/airhero/Activity_Handheld.java" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_handheld.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_choose.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/mulhollandstraps/airhero/Activity_Choose.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_voc_reading_image_dataset.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/mulhollandstraps/airhero/Activity_VOC_Reading_Image_Dataset.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_rover.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/mulhollandstraps/airhero/Activity_Rover.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/mulhollandstraps/airhero/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_recommender.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/mulhollandstraps/airhero/Activity_Recommender.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/mulhollandstraps/airhero/Activity_Model.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/xml/network_security_config.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/upload_image.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/mulhollandstraps/airhero/Activity_Collect_Handheld.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_collect_handheld.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_report.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/mulhollandstraps/airhero/Activity_Report.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/mulhollandstraps/airhero/Activity_User_Upload.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_collect_rover.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/mulhollandstraps/airhero/Activity_Collect_Rover.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_user_upload.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/airhero/Activity_Instruction.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/airhero/Activity_Collect_Handheld.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/airhero/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/airhero/Activity_Model.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/airhero/Activity_Report.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/airhero/Activity_Rover.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/airhero/Activity_Handheld.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/airhero/Activity_Choose.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/airhero/Activity_Collect_Rover.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/airhero/Activity_User_Upload.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="73" />
+    <option name="y" value="159" />
+    <option name="width" value="1221" />
+    <option name="height" value="507" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <hideEmptyPackages AndroidView="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AirHero" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="AirHero" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="manifests" type="f94875db:AndroidManifestsGroupNode" />
+            </path>
+            <path>
+              <item name="AirHero" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="AirHero" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AirHero" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="airhero" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AirHero" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="1cc47a9d0d027ece" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2019-09-29T07:56:35.282Z" />
+    <property name="ExportApk.ApkPath" value="C:\Users\duanj\AndroidStudioProjects\Airhero\app" />
+    <property name="ExportApk.BuildVariants" value="release" />
+    <property name="ExportApk.SignV2" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="device.picker.selection" value="1cc47a9d0d027ece" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/layout" />
+      <recent name="C:\Users\duanj\AndroidStudioProjects\Airhero\app\src\main\res\drawable" />
+    </key>
+    <key name="android.template.packageName">
+      <recent name="com.mulhollandstraps.airhero" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.mulhollandstraps.airhero" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa0b8091-dd84-4975-a8e8-4a013e7a1e66" name="Default Changelist" comment="" />
+      <created>1566807325269</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566807325269</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="25" width="1366" height="678" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Structure" order="0" side_tool="true" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Build Variants" order="4" sideWeight="0.23185012" side_tool="true" visible="true" weight="0.20530303" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Resources Explorer" order="6" weight="0.32954547" />
+      <window_info content_ui="combo" id="Project" order="7" sideWeight="0.7681499" visible="true" weight="0.20530303" />
+      <window_info id="Captures" order="8" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Logcat" order="0" weight="0.2504537" />
+      <window_info anchor="bottom" id="TODO" order="1" weight="0.31034482" />
+      <window_info anchor="bottom" id="Debug" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.32849365" />
+      <window_info anchor="bottom" id="Version Control" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.50040483" side_tool="true" weight="0.26110125" />
+      <window_info active="true" anchor="bottom" id="Build" order="6" sideWeight="0.49959514" visible="true" weight="0.22222222" />
+      <window_info anchor="bottom" id="Android Profiler" order="7" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.3829401" />
+      <window_info anchor="bottom" id="Find" order="9" weight="0.19672132" />
+      <window_info anchor="bottom" id="Inspection Results" order="10" weight="0.3285968" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Gradle" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Preview" order="3" weight="0.24772727" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Device File Explorer" order="5" side_tool="true" />
+      <window_info anchor="right" id="Assistant" order="6" weight="0.2439394" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Structure" order="0" side_tool="true" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Build Variants" order="4" side_tool="true" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Resources Explorer" order="6" weight="0.32954547" />
+      <window_info content_ui="combo" id="Project" order="7" visible="true" weight="0.28939393" />
+      <window_info id="Captures" order="8" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Logcat" order="0" weight="0.2431942" />
+      <window_info anchor="bottom" id="TODO" order="1" weight="0.31034482" />
+      <window_info anchor="bottom" id="Debug" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.32849365" />
+      <window_info anchor="bottom" id="Version Control" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.50040483" side_tool="true" weight="0.26110125" />
+      <window_info anchor="bottom" id="Build" order="6" sideWeight="0.49959514" weight="0.17967331" />
+      <window_info anchor="bottom" id="Android Profiler" order="7" />
+      <window_info anchor="bottom" id="Run" order="8" visible="true" weight="0.32486388" />
+      <window_info anchor="bottom" id="Find" order="9" weight="0.23411979" />
+      <window_info anchor="bottom" id="Inspection Results" order="10" weight="0.3285968" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Gradle" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info active="true" anchor="right" id="Preview" order="3" visible="true" weight="0.21969697" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Device File Explorer" order="5" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1f03e94fdc724d3eb1c6dc074414c5a7/jars/classes.jar!/android/support/v7/app/AppCompatActivity.class" />
+    <entry file="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d537821a7aa4950d0abab591f4009cd5/AndroidManifest.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/mulhollandstraps/airhero/Activity8.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/csc.png" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/daa.png" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/cscs.png" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/dddd.jpg" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/dwd.jpg" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/pic1.png" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/mulhollandstraps/airhero/DeviceListFragment.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/mulhollandstraps/airhero/DeviceListAdapter.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/mulhollandstraps/airhero/DeviceItem.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/mulhollandstraps/airhero/ConnectedThread.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/bluetooth_reference.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main2.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/mulhollandstraps/airhero/Main2Activity.java" />
+    <entry file="file://$PROJECT_DIR$/app/build.gradle" />
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-20" />
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.volley/volley/1.1.1/3fb00d0da53c4e9f35a519da6e22bc2de7463816/volley-1.1.1-sources.jar!/com/android/volley/toolbox/JsonObjectRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="47" column="45" selection-start-line="47" selection-start-column="44" selection-end-line="47" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Android/Sdk/platforms/android-28/android.jar!/android/os/StrictMode.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-900" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity__instructin.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_choose.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/mulhollandstraps/airhero/Activity_Stats.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_stats.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/bluetooth_device_list.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/xml/network_security_config.xml" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/rt.jar!/java/util/ArrayList.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="436" selection-start-line="436" selection-end-line="436" />
+          <folding>
+            <element signature="e#12510#12511#0" expanded="true" />
+            <element signature="e#12552#12553#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_handheld.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_model.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_report.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_rover.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_collect_handheld.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_collect_rover.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/upload_image.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_user_upload.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-73">
+          <caret line="9" column="64" selection-start-line="9" selection-start-column="64" selection-end-line="9" selection-end-column="64" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/airhero/Activity_Instruction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/airhero/Activity_Collect_Handheld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="38" column="10" selection-start-line="38" selection-start-column="10" selection-end-line="38" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/airhero/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/airhero/Activity_Model.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/airhero/Activity_Report.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/airhero/Activity_Rover.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/airhero/Activity_Handheld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/airhero/Activity_Choose.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/airhero/Activity_Collect_Rover.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/airhero/Activity_User_Upload.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
